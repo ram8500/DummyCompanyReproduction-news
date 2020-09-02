@@ -41,20 +41,20 @@ header {
 
 }
 .top-list {
-  background-image: url(../images/top.png);
+  background-image: url(images/top.png);
   background-repeat: no-repeat;
   background-size: 40px 40px;
   padding: 0 10px 10px 50px;
   line-height: 40px;
 }
 .news-list {
-  background-image: url(../images/news.png);
+  background-image: url(images/news.png);
   background-repeat: no-repeat;
   background-size: 40px 40px;
   padding: 0 10px 10px 50px;
 }
 .company-list {
-  background-image: url(../images/company.png);
+  background-image: url(images/company.png);
   background-repeat: no-repeat;
   background-size: 40px 40px;
   padding: 0 10px 10px 50px;
@@ -108,7 +108,7 @@ footer {
   margin-bottom: 100px;
 }
 .contents {
-  background-image: url(../images/cafepic.jpg);
+  background-image: url(images/cafepic.jpg);
   background-size: cover;
   height: 500px;
   width: 100%;
